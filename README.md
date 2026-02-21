@@ -4,7 +4,7 @@
 
 We discovered a significant revenue leak in the onboarding funnel at the most revenue-proximate moment: when users are asked to add a payment method. Of 10,000 landing page visitors, only 1,400 (14%) complete a first order.
 
-The leak: 4,100 users verify their email, but only 2,300 add a payment method. We're losing 1,800 users (44% drop) when asked to provide payment—before they even reach the checkout step. This is the biggest drop at the "money moment" in fintech onboarding.
+The leak: 4,100 users verify their email, but only 2,300 add a payment method. We're losing 1,800 users (44% drop) when asked to provide payment-before they even reach the checkout step. This is the biggest drop at the "money moment" in fintech onboarding.
 
 ## The Funnel
 
