@@ -1,4 +1,4 @@
-# Deck outline (10 slides)
+# Deck outline (10 slides in progress, but here is template of what will do)
 
 1) Title: Onboarding drop-off at payment step
 2) Funnel snapshot (chart + table)
