@@ -1,0 +1,4 @@
+scenario,payment_add_rate,payment_added,first_orders,lift_first_orders,lift_revenue_$
+Baseline,0.5609756097560976,2300,1400,0,0
+Scenario A: 56% -> 68%,0.68,2788,1697,297,14852
+Scenario B: 56% -> 71%,0.71,2911,1772,372,18596
